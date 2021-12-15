@@ -1,2 +1,1 @@
-# project23F.github.io
-project 23
+# project-c23-template
